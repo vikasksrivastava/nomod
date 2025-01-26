@@ -3,6 +3,7 @@
 title: Nomod
 description: Nomod is a multipurpose Jekyll blog theme
 logo: "/images/logo.png"
+# logo: # You can add own logo. For example "/images/logo.png". ORIGINAL LINE
 logo_dark:
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -42,7 +43,8 @@ cta_button:
 hero:
   enable: true
   hero_title: Stories, Journeys, and Ideas for the Creatively Curious
-  hero_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+  #hero_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+  hero_description: A personal website about technical things I find useful. Also, random ramblings and rants.
 
 hero_authors:
   enable: true
@@ -100,8 +102,8 @@ mailchimp:
 
 #-------------------------------
 # Footer Settings
-footer_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
-
+# footer_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
+footer_description: A personal website about technical things I find useful. Also, random ramblings and rants.
 
 # Social Links
 social:
