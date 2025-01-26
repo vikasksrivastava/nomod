@@ -70,3 +70,8 @@ Before using the Nomod theme, please read the attached documentation.
 ### Support
 
 <p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+
+# My Notes 
+
+## Custom DNS
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
