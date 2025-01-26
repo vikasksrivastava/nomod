@@ -85,7 +85,7 @@ about:
 #-------------------------------
 # Authors Section Settings
 authors:
-  enable: true
+  enable: #true
   authors_title: Top authors
 
 
