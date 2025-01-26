@@ -1,7 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Nomod
-description: Nomod is a multipurpose Jekyll blog theme
+#title: Nomod
+#description: Nomod is a multipurpose Jekyll blog theme
+title: SYNSYNACK
+description: A notebook of  things I find useful. Also, random ramblings and rants
 logo: "/images/logo.png"
 # logo: # You can add own logo. For example "/images/logo.png". ORIGINAL LINE
 logo_dark: "/images/logo-dark.png"
