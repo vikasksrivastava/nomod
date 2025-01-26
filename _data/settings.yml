@@ -16,8 +16,8 @@ menu_settings:
       url: "/"
     - title: "Latest"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
+    #- title: "Authors"
+    #  url: "/authors/"
     - title: "Resources"
       submenu:
       - url: "/videos/"
