@@ -29,7 +29,7 @@ end
 {% endhighlight %}
 
 
-{% highlight json %}
+{% highlight shell %}
 
 module ospf_deploy {
   namespace "http://com/example/ospf_deploy";
