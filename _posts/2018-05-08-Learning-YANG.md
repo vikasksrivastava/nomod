@@ -40,8 +40,7 @@ module ospf_deploy {
     description "Second version v2";
   }
 }
-{% endhighlight %}
-json
+```
 
 Note above that each module begins with the module declaration , the filename should equal the module name.Each module is uniqiely identified in the system with the `namespace`
 `prefix` below is how the namespace will be refrenced in the file goign forward. Something like `ospf_deploy:` followed by something.
