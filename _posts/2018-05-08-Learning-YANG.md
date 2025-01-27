@@ -122,7 +122,7 @@ int main() {
 
 Notice below how Restrictions are applied on derived-int32 .
 
-```json
+```yml
 typedef my-base-int32-type {
   type int32 {
     range "1..4 | 10..20"  # 1 to 4 and 10 to 20
