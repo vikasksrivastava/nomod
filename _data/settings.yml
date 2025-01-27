@@ -72,14 +72,14 @@ recommended:
 # About Section Settings
 about:
   enable: true
-  about_title: Hello, I’m Giana
+  about_title: Hello, I’m Vikas
   about_subtitle: I’m a thinker and storyteller with a passion for exploring the intersection of creativity and technology
   about_description: |
-    Giana Franci’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through her blog, she seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
+    Vikas Srivastava’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through his blog, he seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
 
-    It’s a journey through the thoughts and experiences that shape her world. Giana’s work is driven by a desire to challenge the ordinary and to push the boundaries of what’s possible. She sees every project as an opportunity to learn, grow, and inspire others to do the same. This blog is more than just a collection of posts.
-  about_image: "/images/01.jpg"
-  about_image_alt: Daryl Mercer
+    It’s a journey through the thoughts and experiences that shape his world. Vikas's work is driven by a desire to challenge the ordinary and to push the boundaries of what’s possible. He sees every project as an opportunity to learn, grow, and inspire others to do the same. This blog is more than just a collection of posts.
+  about_image: "/images/srivastava_vikas.jpg"
+  about_image_alt: Vikas Srivastava
   about_button_text: Meet our team
   about_button_link: "/about/"
 
@@ -134,7 +134,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier: synsynack-net # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------
