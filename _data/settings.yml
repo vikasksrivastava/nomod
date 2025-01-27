@@ -49,7 +49,7 @@ hero:
   hero_description: A personal website about technical things I find useful. Also, random ramblings and rants.
 
 hero_authors:
-  enable: true
+  enable: #true
   hero_authors_description: Meet our talented team
 
 

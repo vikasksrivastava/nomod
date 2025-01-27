@@ -75,3 +75,7 @@ Before using the Nomod theme, please read the attached documentation.
 
 ## Custom DNS
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain
+
+## Page redirection from old blog to new blog 
+
+https://stackoverflow.com/questions/10178304/what-is-the-best-approach-for-redirection-of-old-pages-in-jekyll-and-github-page
