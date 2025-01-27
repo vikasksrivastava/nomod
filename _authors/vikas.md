@@ -2,7 +2,7 @@
 username: vikas
 name: Vikas Srivastava
 image: '/images/srivastava_vikas.jpg'
-location: Sydney
+location: Ohio
 website:
 facebook: https://facebook.com
 twitter: https://twitter.com
