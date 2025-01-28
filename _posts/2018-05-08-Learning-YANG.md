@@ -6,7 +6,7 @@ date: 2018-05-08 15:01:35 +0300
 author: vikas
 #image: '/images/02.jpg'
 image: 'https://media.licdn.com/dms/image/v2/D5612AQGXjCKY-CRAsw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1720502281799?e=1743638400&v=beta&t=V9QUddmqQ_fMVikFXeQZspw71zP2DnQ7FmLViBEfLtQ'
-video_embed: https://www.youtube.com/watch?v=VP9wBGm982g
+#video_embed: https://www.youtube.com/watch?v=VP9wBGm982g
 tags: [Technology]
 featured: true
 toc: true
