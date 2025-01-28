@@ -79,3 +79,13 @@ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pag
 ## Page redirection from old blog to new blog 
 
 https://stackoverflow.com/questions/10178304/what-is-the-best-approach-for-redirection-of-old-pages-in-jekyll-and-github-page
+
+
+## How to redirect from old blog to the  new blog and also allow google to read us 
+
+Add the below into the old blogs page ; and BOTH the links below points to the new URL 
+
+```html
+<meta http-equiv="refresh" content="0; url=https://www.synsynack.net/learning-yang">
+<link rel="canonical" href="https://www.synsynack.net/learning-yang" />
+```
